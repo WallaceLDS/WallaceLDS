@@ -1,2 +1,2 @@
 # HEY 🙋🏽‍♂️
-My name is Wallace Lima, I´m from Brazil , Studying analysis and systems development (prev 12/2021).
+My name is Wallace Lima, I´m from Brazil , Studying analysis and systems development (conclusion  12/2021).
