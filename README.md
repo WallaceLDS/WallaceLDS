@@ -2,7 +2,8 @@
 *Hello*, My name is Wallace Lima, I´m from Brazil , Studying analysis and systems development (conclusion  12/2021).
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WallaceLDS)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=WallaceLDS)]
+
 
 
 <h2>SKILLS</h2>
