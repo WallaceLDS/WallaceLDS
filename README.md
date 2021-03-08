@@ -1,8 +1,6 @@
-# HEY 🙋🏽‍♂️
-*Hello*, My name is Wallace Lima, I´m from Brazil , Studying analysis and systems development (conclusion  12/2021).
+<h1 align="center">HEY 🙋🏽‍♂️ </h1>
 
-
-
+<p><h2><b>Hello</b>, My name is Wallace Lima, I´m from Brazil , Studying analysis and systems development (conclusion  12/2021).</h2></p>
 
 <h2>SKILLS</h2>
 <h3>with projects</h3>
